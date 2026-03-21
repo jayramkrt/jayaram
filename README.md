@@ -7,8 +7,8 @@ I specialize in building scalable backend systems, REST APIs, and microservices 
 ---
 
 ### 🛠 Tech Stack  
-- **Languages:** Java, SQL, JavaScript  
-- **Frameworks:** Spring Struts 
+- **Languages:** Java, SQL, JavaScript, React 
+- **Frameworks:** Spring, Struts
 - **Databases:** MySQL, Postgres, Redis   
 - **Other Tools:** Kafka
 ---
