@@ -1,6 +1,6 @@
 # Hi, I'm Jayaram 👋  
 
-🚀 Full-Stack Developer | 💻 Java | ☁️ Distributed Systems Enthusiast  
+ Full-Stack Developer |  Java |  Distributed Systems Enthusiast  
 
 I specialize in building scalable backend systems, REST APIs, and microservices using Java, modern cloud technologies. Passionate about solving complex problems and delivering production-ready solutions.  
 
@@ -13,9 +13,7 @@ I specialize in building scalable backend systems, REST APIs, and microservices 
 - **Other Tools:** Kafka
 ---
 
-### 🚀 Featured Projects  
-
-🔗 *Click the project titles to explore the repos.*  
+###  Featured Projects  
 
 - [Expense Tracker API](https://github.com/jayramkrt/ExpenseTracker)
   REST API to manage incomes/expenses with JWT authentication and MySQL.
