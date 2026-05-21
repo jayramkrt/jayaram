@@ -15,14 +15,14 @@ I specialize in building scalable backend systems, REST APIs, and microservices 
 
 ###  Featured Projects  
 
-- [Finance Calculator App](https://github.com/jayramkrt/CashIgniteFinanceCalculator)
-- [cashignite](https://www.cashignite.in)
-Reducing balance EMI
-Prepayments (one-time and recurring, reduce term or reduce EMI)
-Variable interest rates
-Interest saver account (offset account)
-Moratorium period (interest-only or capitalised)
-Fees & charges (recurring or one-time)
+####Repo - [Finance Calculator App](https://github.com/jayramkrt/CashIgniteFinanceCalculator)
+####Live URL - [cashignite](https://www.cashignite.in)
+-Reducing balance EMI
+-Prepayments (one-time and recurring, reduce term or reduce EMI)
+-Variable interest rates
+-Interest saver account (offset account)
+-Moratorium period (interest-only or capitalised)
+-Fees & charges (recurring or one-time)
  
 
 ---
