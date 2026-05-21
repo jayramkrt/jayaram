@@ -15,14 +15,18 @@ I specialize in building scalable backend systems, REST APIs, and microservices 
 
 ###  Featured Projects  
 
-- [Expense Tracker API](https://github.com/jayramkrt/ExpenseTracker)
-  REST API to manage incomes/expenses with JWT authentication and MySQL.
+- [Finance Calculator App](https://github.com/jayramkrt/CashIgniteFinanceCalculator)
+Reducing balance EMI
+Prepayments (one-time and recurring, reduce term or reduce EMI)
+Variable interest rates
+Interest saver account (offset account)
+Moratorium period (interest-only or capitalised)
+Fees & charges (recurring or one-time)
  
 
 ---
 
 ### 🌐 Connect with Me  
-- [LinkedIn](http://www.linkedin.com/in/jay-30211927jk)
-
+- [LinkedIn](https://www.linkedin.com/in/jayaramkrt)
 ---
 ⭐️ From [JayaramK](https://github.com/jayramkrt)
