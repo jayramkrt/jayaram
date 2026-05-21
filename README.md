@@ -63,16 +63,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jayramkrt&show_icons=true&theme=default&hide_border=true" height="150"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayramkrt&layout=compact&theme=default&hide_border=true" height="150"/>
-</p>
-
----
-
 ## 🤝 Let's Connect
 
 I'm always open to discussing backend architecture, distributed systems, or interesting engineering challenges.
